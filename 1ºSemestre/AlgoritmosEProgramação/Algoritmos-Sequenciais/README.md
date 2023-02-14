@@ -9,6 +9,5 @@ Para esses exercícios foi usado o [Visual Studio Code](https://code.visualstudi
 ___
 
 ## Exercícios
-Foram propostos 15 exercícios e seus enunciados estão no README abaixo e como comentários no arquivo _.java_.
+Foram propostos 15 [exercícios](./exercicios/) e seus enunciados estão no README abaixo e como comentários no arquivo _.java_. 
 
-### [Exercício 01](./exercicios/exercicio01.java)
