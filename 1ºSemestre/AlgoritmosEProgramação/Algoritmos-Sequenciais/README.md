@@ -11,4 +11,4 @@ ___
 ## Exercícios
 Foram propostos 15 exercícios e seus enunciados estão no README abaixo e como comentários no arquivo _.java_.
 
-### [Exercício 01](../1ºSemestre/AlgoritmosEProgramação/exercicios/exercicio01.java)
+### [Exercício 01](../exercicios/exercicio01.java)
