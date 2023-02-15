@@ -9,5 +9,5 @@ Para esses exercícios foi usado o [Visual Studio Code](https://code.visualstudi
 ___
 
 ## Exercícios
-Foram propostos 15 [exercícios](./exercicios/) e seus enunciados estão no _readme_ da pasta comentários no arquivo _.java_. 
+Foram propostos 15 [exercícios](./exercicios/) e seus enunciados estão no _readme_ da pasta e como comentários no arquivo _.java_ de cada exercício. 
 
