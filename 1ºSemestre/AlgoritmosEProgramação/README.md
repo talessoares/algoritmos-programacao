@@ -1,1 +1,3 @@
-Algoritmos e Programação
+# Algoritmos e Programação
+
+## [Algoritmos Sequenciais](./Algoritmos-Sequenciais/)
