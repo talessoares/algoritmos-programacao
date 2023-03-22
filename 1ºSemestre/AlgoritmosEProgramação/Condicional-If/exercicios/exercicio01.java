@@ -14,7 +14,7 @@ Saída: Maior = 6 Menor = 4
 
 import java.util.Scanner;
 public class exercicio01 {
-    public static void main (String[] args){
+    public static void main (String args[]){
         Scanner entrada = new Scanner(System.in);
         int n1, n2;
 
